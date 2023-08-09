@@ -19,7 +19,7 @@ Application Link : https://www.figma.com/file/3Mln7FVNrHm138A7isIn7w/Untitled?ty
 |Rename| 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우|
 |Remove| 파일을 삭제하는 작업만 수행한 경우|
 
-[ 멘토 ]
+### [ 멘토 1 ]
 * 창의성은 좋은 편
 * 기존에 시도하고 있었는데 시도 못하고 있던 부분을 찾아내야 한다
 * 친구 사진을 올릴 수 있는 기능
@@ -34,7 +34,7 @@ Application Link : https://www.figma.com/file/3Mln7FVNrHm138A7isIn7w/Untitled?ty
 * 누가 어떤 역할을 했는가(기술 스택)
 * 완성도(물체인식, 사람인식으로 했을 때 좋을거 같고 횡단보도는 안되면 빠르게 버릴 것)
 
-[ 멘토 2 ]
+### [ 멘토 2 ]
 * 시각 장애인을 도와주는 가이드 좋은거 같다
 * 여러가지 케이스에 대한 설명을 해주면 좋을 것 같다
 * 상황을 조금 더 중요한 상황을 기준으로 하라

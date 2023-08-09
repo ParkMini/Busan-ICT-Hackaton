@@ -2,7 +2,8 @@
 ## Team : 3.141592653589793238462643383279502884197
 ## Hey Pi! Help Us
 
-Application Link : https://www.figma.com/file/3Mln7FVNrHm138A7isIn7w/Untitled?type=design&node-id=0%3A1&mode=design&t=DNRriy4Maj0EbCgh-1
+Application design Link : https://www.figma.com/file/3Mln7FVNrHm138A7isIn7w/Untitled?type=design&node-id=0%3A1&mode=design&t=DNRriy4Maj0EbCgh-1
+ppt link : https://pcshskr-my.sharepoint.com/:p:/g/personal/23y20210_pcs_hs_kr/EcKhHVN0JOZEkVxBCFtEvAsBchqitYXZtzH0XM1OEXv7zQ?e=4C0XZr
 
 |Tag Name|Description|
 |---|---|

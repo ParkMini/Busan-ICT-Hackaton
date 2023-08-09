@@ -16,7 +16,7 @@ sns의 부정적인 포스트를 반대로 바꿀 수 있게 만드는 sns앱
 우리팀 아이디어 -> 
 에어컨이 켜져 있다. 에어컨 자동 끄는 시스템을 만들어서 절약을 실현하겠다.
 청각장애인을 위한 수어 번역 시스템
-주차장에 있는 불편함 시스템을 해결하고 IOT 주차장을 만드려고 한다.
+주차장에 있는 불편함 시스템을 해결하고 IOT 주차장을 만드려고 한다.   
 요즘 청소년 사이에서 환자들 수가 늘어나고 있다. 학생들이 의자에 앉아 있는 시간을 적절하게 분리 할 수 있는 스마트 의자
 여행 플랫폼
 트렌드 사이트
@@ -27,3 +27,9 @@ sns의 부정적인 포스트를 반대로 바꿀 수 있게 만드는 sns앱
 [ Software ]
 Application(GPS(Included Navigation), Voice Assistant, Server Communication)
 Server(Object Detection, JumJa Recognize, Text Recognize, So Bi Gi Han Recognize, Bus Number Recognize, Emergency Situation Recognize)
+
+[ 촬영해야 되는 것 ]
+1. 앞에 있는 장애물 인식
+2. gps로 어디로 이동해야되는지 말해야됨
+3. 심박동 센서로 받아온 값으로 급격한 변화가 일어났을때 112 전화
+4. 버스 번호 인식 

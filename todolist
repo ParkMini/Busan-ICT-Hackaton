@@ -29,11 +29,11 @@ Application(GPS(Included Navigation), Voice Assistant, Server Communication)
 Server(Object Detection, JumJa Recognize, Text Recognize, So Bi Gi Han Recognize, Bus Number Recognize, Emergency Situation Recognize)
 
 [ 촬영해야 되는 것 ]
-[-] 앞에 있는 장애물 인식
-[-] 초정밀 GPS로 음성 길 안내
-[-] 버스 번호 인식
-[-] 친구나 가족 얼굴 인식
+[X] 음성인식으로 "헤이 파이, OOO로 길 안내 해줘" - 초정밀 GPS를 활용하여 위치 안내 (추후 기능으로 뺌, 촬영 가능 장소 공간 제약으로 인해 촬영 불가)
+[X] 초정밀 GPS로 음성 길 안내 (추후 기능으로 뺌, 위와 같은 사유)
+[O] 버스 번호 인식
+[X] Object Detection 테스트 영상
 [-] 음성인식으로 "헤이 파이, 앞에 있는 글자 읽어줘" - 앞에 있는 글자나 점자를 감지하여 읽어줌 (소비기한, 안내 글 등)
-[-] 음성인식으로 "헤이 파이, OOO로 길 안내 해줘" - 초정밀 GPS를 활용하여 위치 안내
-[-] 지하철역 내에서 음성인식으로 "헤이 파이, 양산행 열차 승강장으로 안내 해줘", "엘리베이터 찾아줘" - A-GPS와 카메라를 사용하여 내가 타야하는 방면이나 엘리베이터 위치를 안내 해줌
+[-] 앞에 있는 장애물 인식
+[-] 친구나 가족 얼굴 인식
 [O] 횡단보도 인식

@@ -20,3 +20,10 @@ sns의 부정적인 포스트를 반대로 바꿀 수 있게 만드는 sns앱
 요즘 청소년 사이에서 환자들 수가 늘어나고 있다. 학생들이 의자에 앉아 있는 시간을 적절하게 분리 할 수 있는 스마트 의자
 여행 플랫폼
 트렌드 사이트
+
+[ Hardware ]
+심박 센서, IR센서, 충격 센서, 온습도 센서, 카메라
+
+[ Software ]
+Application(GPS(Included Navigation), Voice Assistant, Server Communication)
+Server(Object Detection, JumJa Recognize, Text Recognize, So Bi Gi Han Recognize, Bus Number Recognize, Emergency Situation Recognize)
